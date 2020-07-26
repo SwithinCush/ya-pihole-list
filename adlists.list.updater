@@ -38,3 +38,20 @@ https://urlhaus.abuse.ch/downloads/hostfile/
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 # malwaredomains
 https://mirror1.malwaredomains.com/files/justdomains
+# additional
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts	
+https://mirror1.malwaredomains.com/files/justdomains	
+http://sysctl.org/cameleon/hosts	
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist	 
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	 
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	
+https://hosts-file.net/ad_servers.txt	
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt	
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt	
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt	
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt	
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt	
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt	 
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt	
+https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts.txt	
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
